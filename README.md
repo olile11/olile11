@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi 👋
 
 <!--
 **olile11/olile11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,18 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h2 align="left">Engenheiro da computação</h2>
+<!-- <p align="left">I'm ** Ulilé Indeque **, Computer Engineer with experience Machine Learning, Natural Language Processing, and backend development using Java and Kotlin.</p> -->
+
+- **I'm Ulilé Indeque, Computer Engineer**  
+  - Experience in Machine Learning and Natural Language Processing  
+  - Backend development using Java and Kotlin  
+- **Interests**  
+  - Computer Vision  
+  - Android development
+  - Data Engineering  
+- **Currently learning**  
+  - MLops Engineering  
+
 
 ###
 
