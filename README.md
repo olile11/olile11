@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 
 <!-- <p align="left">I'm ** Ulilé Indeque **, Computer Engineer with experience Machine Learning, Natural Language Processing, and backend development using Java and Kotlin.</p> -->
 
-- **I'm Ulilé Indeque, Computer Engineer**  
-  - Experience in Machine Learning and Natural Language Processing  
+- **I'm Ulilé Indeque, Computer Engineer with experience in:**  
+  - Machine Learning and Natural Language Processing  
   - Backend development using Java and Kotlin  
 - **Interests**  
   - Computer Vision  
