@@ -17,17 +17,10 @@ Here are some ideas to get you started:
 
 <!-- <p align="left">I'm ** Ulilé Indeque **, Computer Engineer with experience Machine Learning, Natural Language Processing, and backend development using Java and Kotlin.</p> -->
 
-- **I'm Ulilé Indeque, Computer Engineer with experience in:**  
-  - Machine Learning and Natural Language Processing  
-  - Backend development using Java and Kotlin  
-- **Interests**  
-  - Computer Vision  
+- **I'm Ulilé Indeque, Computer Engineer with experience in:**
+  - Computer Vision
+- **Interests**    
   - Android development
-  - Data Engineering  
-- **Currently learning**  
-  - MLops Engineering  
-
-
 ###
 
 <div align="center">
